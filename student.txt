@@ -1,2 +1,1 @@
-Student class
-Marks aquired
+Student fees
