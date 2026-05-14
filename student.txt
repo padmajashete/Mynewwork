@@ -1,3 +1,5 @@
 Student fees
 student class
 Student marks
+student rank
+student admission 
